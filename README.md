@@ -1,7 +1,7 @@
 # Everyone is John
 
 ### A competitive roleplaying game for three or more people.
-
+ 
 ## Author's Notes
 
 Everyone is John has, quite to my surprise, developed a small but devoted following over the years. I've made it available again here principally to advertise the fact that I've released it under the Creative Commons Attribution 4.0 International License, which basically allows anyone to copy and alter and remix it. But, appropriately enough, the premiere site for _Everyone is John_ is probably [http://www.everyoneisjohn.com](http://www.everyoneisjohn.com/). I do not control that site, am not affiliated with that site, and do not endorse everything on that site, but I am pleased that people like my game enough to have broadcast it during the time that my webpage was down.
